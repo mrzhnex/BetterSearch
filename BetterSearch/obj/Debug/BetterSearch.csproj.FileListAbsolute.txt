@@ -1,0 +1,298 @@
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\BetterSearch.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\BetterSearch.pdb
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Smod2.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\unityengine.physicsmodule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\USB079.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UI.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Mono.Nat.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\amazon-gameon-api.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Facepunch.Steamworks.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\zxing.unity.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\unityengine.physicsmodule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CopyComplete
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\obj\Debug\BetterSearch.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\obj\Debug\BetterSearch.pdb
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\CraftKnife.dll
+C:\Users\Саша\source\repos\BetterSearch\BetterSearch\bin\Debug\BleedOutPlugin.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csprojAssemblyReference.cache
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.pdb
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BetterSearch.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BetterSearch.pdb
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\CraftKnife.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Mirror.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CoreModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\USB079.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UI.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Unity.TextMeshPro.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Mono.Nat.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\zxing.unity.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputLegacyModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AIModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BleedOutPlugin.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UNETModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\YamlDotNet.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClothModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TilemapModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VFXModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VideoModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VRModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GridModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SubsystemsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DirectorModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StreamingModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.WindModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ARModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.XRModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputModule.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\CraftKnife.pdb
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\USB079.pdb
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BleedOutPlugin.pdb
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CopyComplete
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CoreCompileInputs.cache
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Events.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Idler.dll
+F:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Permissions.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BetterSearch.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BetterSearch.pdb
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\CraftKnife.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Events.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Idler.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\EXILED_Permissions.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Mirror.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CoreModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PhysicsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\USB079.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UI.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Unity.TextMeshPro.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\Mono.Nat.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\zxing.unity.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputLegacyModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BleedOutPlugin.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\YamlDotNet.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UNETModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DSPGraphModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AndroidJNIModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AccessibilityModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityConnectModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AIModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.Physics2DModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AssetBundleModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SharedInternalsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClothModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterInputModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ClusterRendererModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.CrashReportingModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TilemapModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VFXModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VideoModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VRModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GridModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ImageConversionModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SubsystemsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.JSONSerializeModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.LocalizationModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.DirectorModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.GameCenterModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteMaskModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.StreamingModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextCoreModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.SpriteShapeModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UIElementsModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.VehiclesModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.WindModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ARModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.XRModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.InputModule.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\CraftKnife.pdb
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\USB079.pdb
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ParticleSystemModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AnimationModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TerrainModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.AudioModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.TextRenderingModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.IMGUIModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\bin\Debug\BleedOutPlugin.pdb
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csprojAssemblyReference.cache
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CoreCompileInputs.cache
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.csproj.CopyComplete
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.dll
+G:\Портфолио\SCP SL plugins\BetterSearch\BetterSearch\obj\Debug\BetterSearch.pdb

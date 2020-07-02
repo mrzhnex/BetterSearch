@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSearch", "BetterSearch\BetterSearch.csproj", "{9F028E79-D48A-46AA-84B9-E3B5ACABEDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F028E79-D48A-46AA-84B9-E3B5ACABEDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F028E79-D48A-46AA-84B9-E3B5ACABEDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F028E79-D48A-46AA-84B9-E3B5ACABEDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F028E79-D48A-46AA-84B9-E3B5ACABEDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6EF69D-2B47-433B-8383-F1F99973A01D}
+	EndGlobalSection
+EndGlobal
