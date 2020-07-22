@@ -4,8 +4,8 @@ namespace BetterSearch
 {
     public class MainSettings : Plugin
     {
-        public override string getName => "BetterSearch";
-        private SetEvents SetEvents;
+        public override string getName => nameof(BetterSearch);
+        public SetEvents SetEvents { get; set; }
 
         public override void OnEnable()
         {

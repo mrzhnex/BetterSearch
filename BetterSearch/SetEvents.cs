@@ -9,7 +9,7 @@ using System.Linq;
 
 namespace BetterSearch
 {
-    internal class SetEvents
+    public class SetEvents
     {
         private bool ChanceToShowItemWithSearchf(ItemType itemType)
         {
