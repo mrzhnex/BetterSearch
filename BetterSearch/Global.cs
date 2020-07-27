@@ -17,7 +17,6 @@ namespace BetterSearch
 
         public static string _toolong = "Вы не смотрите на обыскиваемого человека, либо находитесь слишком близко к нему";
 
-        //rework
         public static float cooldown_searchf = 30.0f;
         public static float cooldown_search = 10.0f;
         public static float time_search_to_steal = 120.0f;

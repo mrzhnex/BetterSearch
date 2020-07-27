@@ -34,23 +34,17 @@
   <ItemGroup>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Exiled\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="CraftKnife, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\CraftKnife\CraftKnife\bin\Debug\CraftKnife.dll</HintPath>
     </Reference>
-    <Reference Include="EXILED">
-      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Exiled\EXILED\EXILED.dll</HintPath>
+    <Reference Include="Exiled.API">
+      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\EXILED\Plugins\dependencies\Exiled.API.dll</HintPath>
     </Reference>
-    <Reference Include="EXILED_Events">
-      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Exiled\Plugins\EXILED_Events.dll</HintPath>
-    </Reference>
-    <Reference Include="EXILED_Idler">
-      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Exiled\Plugins\EXILED_Idler.dll</HintPath>
-    </Reference>
-    <Reference Include="EXILED_Permissions">
-      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\Exiled\Plugins\EXILED_Permissions.dll</HintPath>
+    <Reference Include="Exiled.Events">
+      <HintPath>..\..\.Smod MP2.PreAlpha &amp; Exiled\EXILED\Plugins\Exiled.Events.dll</HintPath>
     </Reference>
     <Reference Include="Mirror, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -82,11 +76,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config.cs" />
     <Compile Include="CooldownDestroy.cs" />
     <Compile Include="CooldownSearch.cs" />
     <Compile Include="CooldownSearchF.cs" />
     <Compile Include="CooldownSteal.cs" />
-    <Compile Include="DestroyProccess.cs" />
     <Compile Include="MainSettings.cs" />
     <Compile Include="Global.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

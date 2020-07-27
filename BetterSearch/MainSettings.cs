@@ -1,29 +1,29 @@
-﻿using EXILED;
+﻿using Exiled.API.Features;
 
 namespace BetterSearch
 {
-    public class MainSettings : Plugin
+    public class MainSettings : Plugin<Config>
     {
-        public override string getName => nameof(BetterSearch);
+        public override string Name => nameof(BetterSearch);
         public SetEvents SetEvents { get; set; }
 
-        public override void OnEnable()
+        public override void OnEnabled()
         {
+            Global.IsFullRp = Config.IsFullRp;
+            Log.Info(nameof(Global.IsFullRp) + ": " + Global.IsFullRp);
             SetEvents = new SetEvents();
-            Events.RoundStartEvent += SetEvents.OnRoundStart;
-            Events.WaitingForPlayersEvent += SetEvents.OnWaitingForPlayers;
-            Events.ConsoleCommandEvent += SetEvents.OnCallCommand;
-            Log.Info(getName + " on");
+            Exiled.Events.Handlers.Server.RoundStarted += SetEvents.OnRoundStarted;
+            Exiled.Events.Handlers.Server.WaitingForPlayers += SetEvents.OnWaitingForPlayers;
+            Exiled.Events.Handlers.Server.SendingConsoleCommand += SetEvents.OnSendingConsoleCommand;
+            Log.Info(Name + " on");
         }
 
-        public override void OnDisable()
+        public override void OnDisabled()
         {
-            Events.RoundStartEvent -= SetEvents.OnRoundStart;
-            Events.WaitingForPlayersEvent -= SetEvents.OnWaitingForPlayers;
-            Events.ConsoleCommandEvent -= SetEvents.OnCallCommand;
-            Log.Info(getName + " off");
+            Exiled.Events.Handlers.Server.RoundStarted -= SetEvents.OnRoundStarted;
+            Exiled.Events.Handlers.Server.WaitingForPlayers -= SetEvents.OnWaitingForPlayers;
+            Exiled.Events.Handlers.Server.SendingConsoleCommand -= SetEvents.OnSendingConsoleCommand;
+            Log.Info(Name + " off");
         }
-
-        public override void OnReload() { }
     }
 }

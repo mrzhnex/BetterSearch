@@ -1,18 +1,18 @@
 ﻿using UnityEngine;
 using USB079;
 using CraftKnife;
-using EXILED.Extensions;
 using System.Linq;
+using Exiled.API.Features;
 
 namespace BetterSearch
 {
     class StealProccess : MonoBehaviour
     {
-        public ReferenceHub target;
-        private ReferenceHub stealer;
+        public Player target;
+        private Player stealer;
         public ItemType itemtype;
         public string itemname;
-        public bool hidden_inventory;
+        public bool hidden_Inventory;
         public bool iscurrentitem;
         private float timer = 0f;
         private readonly float timeIsUp = 1.0f;
@@ -20,7 +20,7 @@ namespace BetterSearch
 
         public void Start()
         {
-            stealer = Player.GetPlayer(gameObject);
+            stealer = Player.Get(gameObject);
         }
 
         public void Update()
@@ -29,22 +29,22 @@ namespace BetterSearch
             if (timer >= timeIsUp)
             {
                 timer = 0f;
-                progress = progress - timeIsUp;
-                if (hidden_inventory)
+                progress -= timeIsUp;
+                if (hidden_Inventory)
                 {
-                    if (target.gameObject.GetComponent<UsbHolder>() == null)
+                    if (target.GameObject.GetComponent<UsbHolder>() == null)
                     {
                         stealer.ClearBroadcasts();
-                        stealer.Broadcast(10, "Кража не удалась, " + target.nicknameSync.Network_myNickSync + " не имеет " + itemname, true);
+                        stealer.Broadcast(10, "Кража не удалась, " + target.Nickname + " не имеет " + itemname, Broadcast.BroadcastFlags.Normal);
                         Destroy(gameObject.GetComponent<StealProccess>());
                     }
                 }
                 else
                 {
-                    if (target.inventory.items.Where(x => x.id == itemtype).FirstOrDefault() == default)
+                    if (target.Inventory.items.Where(x => x.id == itemtype).FirstOrDefault() == default)
                     {
                         stealer.ClearBroadcasts();
-                        stealer.Broadcast(10, "Кража не удалась, " + target.nicknameSync.Network_myNickSync + " не имеет " + itemname, true);
+                        stealer.Broadcast(10, "Кража не удалась, " + target.Nickname + " не имеет " + itemname, Broadcast.BroadcastFlags.Normal);
                         Destroy(gameObject.GetComponent<StealProccess>());
                     }
                 }
@@ -52,91 +52,91 @@ namespace BetterSearch
 
             if (progress <= 0f)
             {
-                if (hidden_inventory)
+                if (hidden_Inventory)
                 {
                     if (itemname == Global._usb079itemname)
                     {
-                        if (target.gameObject.GetComponent<UsbHolder>() == null)
+                        if (target.GameObject.GetComponent<UsbHolder>() == null)
                         {
                             stealer.ClearBroadcasts();
-                            stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.nicknameSync.Network_myNickSync + " не имеет " + itemname + "</color>", true);
+                            stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.Nickname + " не имеет " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                         }
                         else
                         {
-                            Destroy(target.gameObject.GetComponent<UsbHolder>());
+                            Destroy(target.GameObject.GetComponent<UsbHolder>());
                             gameObject.AddComponent<UsbHolder>();
                             stealer.ClearBroadcasts();
-                            stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", true);
+                            stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                         }
                     }
                     else if (itemname == Global._knifeitemname)
                     {
-                        if (target.gameObject.GetComponent<KnifeHolder>() == null)
+                        if (target.GameObject.GetComponent<KnifeHolder>() == null)
                         {
                             stealer.ClearBroadcasts();
-                            stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.nicknameSync.Network_myNickSync + " не имеет " + itemname + "</color>", true);
+                            stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.Nickname + " не имеет " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                         }
                         else
                         {
                             if (gameObject.GetComponent<KnifeHolder>() != null)
                             {
                                 stealer.ClearBroadcasts();
-                                stealer.Broadcast(10, "<color=#228b22>Вы не смогли украсть " + itemname + ", так как у вас уж есть " + itemname + "</color>", true);
+                                stealer.Broadcast(10, "<color=#228b22>Вы не смогли украсть " + itemname + ", так как у вас уж есть " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             }
                             else
                             {
-                                Destroy(target.gameObject.GetComponent<KnifeHolder>());
+                                Destroy(target.GameObject.GetComponent<KnifeHolder>());
                                 gameObject.AddComponent<KnifeHolder>();
                                 stealer.ClearBroadcasts();
-                                stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", true);
+                                stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             }
                         }
                     }
                 }
                 else
                 {
-                    if (target.inventory.items.Where(x => x.id == itemtype).FirstOrDefault() == default)
+                    if (target.Inventory.items.Where(x => x.id == itemtype).FirstOrDefault() == default)
                     {
                         stealer.ClearBroadcasts();
-                        stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.nicknameSync.Network_myNickSync + " не имеет " + itemname + "</color>", true);
+                        stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.Nickname + " не имеет " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                     }
                     else
                     {
                         if (!ChanceToStealItem(itemtype))
                         {
                             stealer.ClearBroadcasts();
-                            stealer.Broadcast(10, "<color=#228b22>У вас не получилось украсть " + itemname + "</color>", true);
+                            stealer.Broadcast(10, "<color=#228b22>У вас не получилось украсть " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             if (iscurrentitem)
                             {
                                 target.ClearBroadcasts();
-                                target.Broadcast(10, "<color=#ff0000>Вы чувствуете, как " + stealer.nicknameSync.Network_myNickSync + " пытался выбить у вас из рук " + itemname + "</color>", true);
+                                target.Broadcast(10, "<color=#ff0000>Вы чувствуете, как " + stealer.Nickname + " пытался выбить у вас из рук " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             }
                             else
                             {
                                 target.ClearBroadcasts();
-                                target.Broadcast(10, "<color=#228b22>Вы чувствуете странное движение в том месте, где вы храните " + itemname + "</color>", true);
+                                target.Broadcast(10, "<color=#228b22>Вы чувствуете странное движение в том месте, где вы храните " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             }
                         }
                         else
                         {
-                            for (int i = 0; i < target.inventory.items.Count; i++)
+                            for (int i = 0; i < target.Inventory.items.Count; i++)
                             {
-                                if (target.inventory.items[i].id == itemtype)
-                                    target.inventory.items.Remove(target.inventory.items[i]);
+                                if (target.Inventory.items[i].id == itemtype)
+                                    target.Inventory.items.Remove(target.Inventory.items[i]);
                             }
 
                             stealer.AddItem(itemtype);
                             stealer.ClearBroadcasts();
-                            stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", true);
+                            stealer.Broadcast(10, "<color=#ff0000>Вы украли " + itemname + "</color>", Broadcast.BroadcastFlags.Normal);
                             if (iscurrentitem)
                             {
-                                string bc = "<color=#ff0000>Игрок " + stealer.nicknameSync.Network_myNickSync + " выбил у вас из рук " + itemname;
+                                string bc = "<color=#ff0000>Игрок " + stealer.Nickname + " выбил у вас из рук " + itemname;
                                 if (Global.rand.Next(0, 100) == 33)
                                 {
                                     bc = bc + " P.s. вы слепой долбоеб";
                                 }
                                 target.ClearBroadcasts();
-                                target.Broadcast(10, bc + "</color>", true);
+                                target.Broadcast(10, bc + "</color>", Broadcast.BroadcastFlags.Normal);
                             }
                         }
                     }
@@ -144,10 +144,10 @@ namespace BetterSearch
                 Destroy(gameObject.GetComponent<StealProccess>());
             }
 
-            if (Vector3.Distance(gameObject.transform.position, target.GetPosition()) > Global.distance_to_steal_between)
+            if (Vector3.Distance(gameObject.transform.position, target.Position) > Global.distance_to_steal_between)
             {
                 stealer.ClearBroadcasts();
-                stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.nicknameSync.Network_myNickSync + " слишком далеко</color>", true);
+                stealer.Broadcast(10, "<color=#228b22>Кража не удалась, " + target.Nickname + " слишком далеко</color>", Broadcast.BroadcastFlags.Normal);
                 Destroy(gameObject.GetComponent<StealProccess>());
             }
         }
@@ -156,7 +156,7 @@ namespace BetterSearch
         {
             if (itemtype == ItemType.GunCOM15)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -173,7 +173,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -210,7 +210,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.GunUSP)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -227,7 +227,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -264,7 +264,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.GunProject90 || itemtype == ItemType.GunMP7)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -281,7 +281,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -318,7 +318,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.GunE11SR)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -335,7 +335,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -372,7 +372,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.GunLogicer)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -389,7 +389,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -426,7 +426,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.MicroHID)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -443,7 +443,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -480,7 +480,7 @@ namespace BetterSearch
             }
             else if (itemtype.ToString().ToLower().Contains("card") || itemtype == ItemType.KeycardChaosInsurgency)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -497,7 +497,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -534,7 +534,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.Radio || itemtype == ItemType.GrenadeFrag || itemtype == ItemType.GrenadeFlash)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -551,7 +551,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -588,7 +588,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.WeaponManagerTablet)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -605,7 +605,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -642,7 +642,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.Medkit)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -659,7 +659,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {
@@ -696,7 +696,7 @@ namespace BetterSearch
             }
             else if (itemtype == ItemType.Flashlight)
             {
-                if (target.GetTeam() == Team.CDP)
+                if (target.Team == Team.CDP)
                 {
                     if (iscurrentitem)
                     {
@@ -713,7 +713,7 @@ namespace BetterSearch
                         }
                     }
                 }
-                else if (target.GetRole() == RoleType.Scientist)
+                else if (target.Role == RoleType.Scientist)
                 {
                     if (iscurrentitem)
                     {

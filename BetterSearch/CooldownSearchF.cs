@@ -22,7 +22,6 @@ namespace BetterSearch
             {
                 Destroy(gameObject.GetComponent<CooldownSearchF>());
             }
-        }
-    
+        }  
     }
 }
